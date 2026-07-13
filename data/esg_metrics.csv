@@ -1,0 +1,6 @@
+metric_id,metric_name,reporting_year,value,unit,control_status,source_owner
+M001,Weighted average carbon intensity,2023,205,tCO2e per EURm revenue,baseline approved,ESG Data Office
+M001,Weighted average carbon intensity,2025,164,tCO2e per EURm revenue,reviewed,ESG Data Office
+M002,Financed emissions intensity,2025,72,tCO2e per EURm invested,reviewed,ESG Data Office
+M003,Taxonomy-aligned investments,2025,31.4,percent of NAV,pending assurance,Sustainability Reporting
+M004,Exposure to controversial weapons,2025,0.0,percent of NAV,passed,Investment Compliance
