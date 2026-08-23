@@ -1,3 +1,6 @@
+Project status: Active
+Last validated: August 2026
+
 # ESG Reporting AI Assistant
 
 A grounded AI assistant for ESG reporting, regulatory analysis and controlled source-based research.
